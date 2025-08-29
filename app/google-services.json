@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "990703902450",
+    "firebase_url": "https://soyyinmanage-default-rtdb.firebaseio.com",
+    "project_id": "soyyinmanage",
+    "storage_bucket": "soyyinmanage.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990703902450:android:e1d510fd4fbc3c7481ba6b",
+        "android_client_info": {
+          "package_name": "com.example.soyyinmanage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHSd0aC8qMtYXXqleCLAt-k79tWutTo6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

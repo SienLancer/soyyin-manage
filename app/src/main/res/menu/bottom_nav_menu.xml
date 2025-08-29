@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Add"
+        android:icon="@drawable/add_circle"
+        android:id="@+id/add_mn"/>
+    <item android:title="Home"
+        android:icon="@drawable/home_ic"
+        android:id="@+id/home_mn"/>
+    <item android:title="Menu"
+        android:icon="@drawable/menu"
+        android:id="@+id/menu_mn"/>
+</menu>
